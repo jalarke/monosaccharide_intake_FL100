@@ -1,0 +1,634 @@
+﻿Ingredient code,Ingredient description_x,Ingredient weight (g)_x,Ingredient_subcode,Ingredient description_y,Ingredient weight (g)_y
+81200100,"Oil or table fat, NFS",3,1001,"Butter, salted",60
+81200100,"Oil or table fat, NFS",3,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+81200100,"Oil or table fat, NFS",3,4044,"Oil, soybean, salad or cooking",50
+81200100,"Oil or table fat, NFS",3,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+81200100,"Oil or table fat, NFS",3,4582,"Oil, canola",15
+81200100,"Oil or table fat, NFS",3,4053,"Oil, olive, salad or cooking",25
+82101000,"Vegetable oil, NFS",4.667,4044,"Oil, soybean, salad or cooking",50
+82101000,"Vegetable oil, NFS",4.667,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+82101000,"Vegetable oil, NFS",4.667,4582,"Oil, canola",15
+82101000,"Vegetable oil, NFS",4.667,4053,"Oil, olive, salad or cooking",25
+11100000,"Milk, NFS",61,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+11100000,"Milk, NFS",61,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+11100000,"Milk, NFS",61,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+11100000,"Milk, NFS",61,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+81100000,"Table fat, NFS",56,1001,"Butter, salted",60
+81100000,"Table fat, NFS",56,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+41302010,"Chickpeas, from dried, fat added",100,16057,"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without salt",100
+41302010,"Chickpeas, from dried, fat added",100,4044,"Oil, soybean, salad or cooking",50
+41302010,"Chickpeas, from dried, fat added",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41302010,"Chickpeas, from dried, fat added",100,4582,"Oil, canola",15
+41302010,"Chickpeas, from dried, fat added",100,4053,"Oil, olive, salad or cooking",25
+41302010,"Chickpeas, from dried, fat added",100,2047,"Salt, table, iodized",0.6
+99991400,Cheese as ingredient in sandwiches,42,1253,"Cheese, pasteurized process, American, without added vitamin D",30
+99991400,Cheese as ingredient in sandwiches,42,1252,"Cheese product, pasteurized process, American, vitamin D fortified",20
+99991400,Cheese as ingredient in sandwiches,42,1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",25
+99991400,Cheese as ingredient in sandwiches,42,1040,"Cheese, swiss",10
+99991400,Cheese as ingredient in sandwiches,42,1035,"Cheese, provolone",5
+99991400,Cheese as ingredient in sandwiches,42,1029,"Cheese, mozzarella, low moisture, part-skim",4
+99991400,Cheese as ingredient in sandwiches,42,1215,"Cheese product, pasteurized process, American, reduced fat, fortified with vitamin D",3
+99991400,Cheese as ingredient in sandwiches,42,1260,"Cheese, cheddar, reduced fat (Includes foods for USDA's Food Distribution Program)",3
+99992230,Breakfast meat as ingredient in omelet,15,10879,"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",40
+99992230,Breakfast meat as ingredient in omelet,15,7064,"Pork sausage, link/patty, cooked, pan-fried",25
+99992230,Breakfast meat as ingredient in omelet,15,10862,"Pork, cured, bacon, pre-sliced, cooked, pan-fried",15
+99992230,Breakfast meat as ingredient in omelet,15,100173,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",100
+99992230,Breakfast meat as ingredient in omelet,15,7919,"Sausage, turkey, breakfast links, mild, raw",100
+51121025,"Garlic bread, from fast food / restaurant",100,18963,"Garlic bread, frozen",100
+51121025,"Garlic bread, from fast food / restaurant",100,2047,"Salt, table, iodized",0.2
+24122130,"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",78,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",85
+24122130,"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",78,5015,"Chicken, broilers or fryers, skin only, raw",15
+24122130,"Chicken breast, baked, broiled, or roasted, skin eaten, from raw",78,2047,"Salt, table, iodized",0.6
+99995000,Breading or batter as ingredient in food,15,20081,"Wheat flour, white, all-purpose, enriched, bleached",125
+99995000,Breading or batter as ingredient in food,15,18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",1
+99995000,Breading or batter as ingredient in food,15,14411,"Beverages, water, tap, drinking",120
+99995000,Breading or batter as ingredient in food,15,1123,"Egg, whole, raw, fresh",15
+99995000,Breading or batter as ingredient in food,15,2047,"Salt, table, iodized",1
+99995000,Breading or batter as ingredient in food,15,18079,"Bread, crumbs, dry, grated, plain",25
+54403056,"Popcorn, microwave, butter flavored",100,25026,"Popcorn, microwave, regular (butter) flavor, made with palm oil",100
+11432000,"Yogurt, low fat milk, fruit",226.61,1117,"Yogurt, plain, low fat",88
+11432000,"Yogurt, low fat milk, fruit",226.61,19297,Jams and preserves,12
+11432000,"Yogurt, low fat milk, fruit",226.61,999328,Vitamin D as ingredient,0.012
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",270,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",270,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24102070,"Chicken, NS as to part, rotisserie, skin not eaten",270,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+27116350,"Stewed seasoned ground beef, Mexican style",444,23567,"Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",16
+27116350,"Stewed seasoned ground beef, Mexican style",444,23572,"Beef, ground, 80% lean meat / 20% fat, raw",32
+27116350,"Stewed seasoned ground beef, Mexican style",444,23577,"Beef, ground, 75% lean meat / 25% fat, raw",34
+27116350,"Stewed seasoned ground beef, Mexican style",444,23562,"Beef, ground, 90% lean meat / 10% fat, raw",16
+27116350,"Stewed seasoned ground beef, Mexican style",444,23557,"Beef, ground, 95% lean meat / 5% fat, raw",1.5
+27116350,"Stewed seasoned ground beef, Mexican style",444,11282,"Onions, raw",40
+27116350,"Stewed seasoned ground beef, Mexican style",444,11333,"Peppers, sweet, green, raw",40
+27116350,"Stewed seasoned ground beef, Mexican style",444,11529,"Tomatoes, red, ripe, raw, year round average",80
+27116350,"Stewed seasoned ground beef, Mexican style",444,2014,"Spices, cumin seed",1.5
+27116350,"Stewed seasoned ground beef, Mexican style",444,2047,"Salt, table, iodized",5.5
+27116350,"Stewed seasoned ground beef, Mexican style",444,14411,"Beverages, water, tap, drinking",237
+27116350,"Stewed seasoned ground beef, Mexican style",444,11215,"Garlic, raw",9
+27116350,"Stewed seasoned ground beef, Mexican style",444,2030,"Spices, pepper, black",0.5
+27116350,"Stewed seasoned ground beef, Mexican style",444,20081,"Wheat flour, white, all-purpose, enriched, bleached",3.9
+41205010,Refried beans,520,16103,"Refried beans, canned, traditional style",100
+61210000,"Orange juice, 100%, NFS",248,9209,"Orange juice, chilled, includes from concentrate",65
+61210000,"Orange juice, 100%, NFS",248,9210,"Orange juice, chilled, includes from concentrate, with added calcium and vitamin D",35
+99997220,"Broccoli, cooked, as ingredient",25,11090,"Broccoli, raw",100
+71403050,"Potato, home fries, ready-to-heat",100,11363,"Potatoes, baked, flesh, without salt",50
+71403050,"Potato, home fries, ready-to-heat",100,11674,"Potatoes, baked, flesh and skin, without salt",50
+71403050,"Potato, home fries, ready-to-heat",100,4044,"Oil, soybean, salad or cooking",50
+71403050,"Potato, home fries, ready-to-heat",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+71403050,"Potato, home fries, ready-to-heat",100,4582,"Oil, canola",15
+71403050,"Potato, home fries, ready-to-heat",100,4053,"Oil, olive, salad or cooking",25
+71403050,"Potato, home fries, ready-to-heat",100,2047,"Salt, table, iodized",1
+53520130,"Doughnut, cake type, powdered sugar",50,18248,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",60
+53520130,"Doughnut, cake type, powdered sugar",50,19336,"Sugars, powdered",5
+53521110,"Doughnut, yeast type",50,18255,"Doughnuts, yeast-leavened, glazed, enriched (includes honey buns)",100
+51184210,"Breadsticks, soft, from fast food / restaurant",100,21520,"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",100
+51184210,"Breadsticks, soft, from fast food / restaurant",100,2047,"Salt, table, iodized",0.2
+41104250,Pinto beans with meat,45,16043,"Beans, pinto, mature seeds, cooked, boiled, without salt",100
+41104250,Pinto beans with meat,45,2047,"Salt, table, iodized",0.6
+41104250,Pinto beans with meat,45,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",100
+41104250,Pinto beans with meat,45,16015,"Beans, black, mature seeds, cooked, boiled, without salt",100
+41104250,Pinto beans with meat,45,2047,"Salt, table, iodized",0.6
+56205008,"Rice, white, cooked, no added fat",40,20045,"Rice, white, long-grain, regular, enriched, cooked",158
+56205008,"Rice, white, cooked, no added fat",40,2047,"Salt, table, iodized",1.002
+24122171,"Chicken breast, rotisserie, skin not eaten",56.7,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",100
+14650160,Alfredo sauce,195,14411,"Beverages, water, tap, drinking",240
+14650160,Alfredo sauce,195,1053,"Cream, fluid, heavy whipping",120
+14650160,Alfredo sauce,195,1032,"Cheese, parmesan, grated",20
+14650160,Alfredo sauce,195,1001,"Butter, salted",14
+14650160,Alfredo sauce,195,2047,"Salt, table, iodized",4.5
+99997545,"Green beans, cooked, as ingredient",54,11052,"Beans, snap, green, raw",100
+13130300,"Light ice cream, vanilla",73,19088,"Ice creams, vanilla, light",50
+13130300,"Light ice cream, vanilla",73,19260,"Ice creams, vanilla, light, no sugar added",50
+27162040,Spaghetti sauce with meat,130,6931,"Sauce, pasta, spaghetti/marinara, ready-to-serve",260
+27162040,Spaghetti sauce with meat,130,23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",40
+27162040,Spaghetti sauce with meat,130,23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",30
+27162040,Spaghetti sauce with meat,130,23568,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",15
+27162040,Spaghetti sauce with meat,130,23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",15
+27162040,Spaghetti sauce with meat,130,2047,"Salt, table, iodized",0.84
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,11363,"Potatoes, baked, flesh, without salt",100
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,2047,"Salt, table, iodized",0.4
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,1001,"Butter, salted",60
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,4044,"Oil, soybean, salad or cooking",50
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,4582,"Oil, canola",15
+71103000,"Potato, boiled, from fresh, peel not eaten, NS as to fat",100,4053,"Oil, olive, salad or cooking",25
+71501010,"Potato, mashed, from fresh, made with milk",100,11363,"Potatoes, baked, flesh, without salt",100
+71501010,"Potato, mashed, from fresh, made with milk",100,1049,"Cream, fluid, half and half",25
+71501010,"Potato, mashed, from fresh, made with milk",100,1001,"Butter, salted",60
+71501010,"Potato, mashed, from fresh, made with milk",100,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+71501010,"Potato, mashed, from fresh, made with milk",100,2047,"Salt, table, iodized",0.6
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,11172,"Corn, sweet, yellow, canned, whole kernel, drained solids",100
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,1001,"Butter, salted",60
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,4044,"Oil, soybean, salad or cooking",50
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,4582,"Oil, canola",15
+75216123,"Corn, canned, cooked, fat added, NS as to fat type",100,4053,"Oil, olive, salad or cooking",25
+75235000,Water Chesnut,15,11590,"Waterchestnuts, chinese, canned, solids and liquids",100
+99997520,"Green pepper, cooked, as ingredient",10,11333,"Peppers, sweet, green, raw",100
+99997310,"Carrots, cooked, as ingredient",25,11124,"Carrots, raw",100
+75231012,"Snowpea, frozen, cooked, no added fat",25,11303,"Peas, edible-podded, frozen, cooked, boiled, drained, without salt",100
+75231012,"Snowpea, frozen, cooked, no added fat",25,2047,"Salt, table, iodized",0.3
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",56.7,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",50
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",56.7,5334,"Chicken, broiler, rotisserie, BBQ, thigh, meat only",30
+24100000,"Chicken, NS as to part and cooking method, NS as to skin eaten",56.7,5319,"Chicken, broiler, rotisserie, BBQ, drumstick, meat only",20
+99997510,"Onions, cooked, as ingredient",2,11282,"Onions, raw",100
+99997515,"Mushrooms, cooked, as ingredient",2,11260,"Mushrooms, white, raw",100
+24122131,"Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",80,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",100
+24122131,"Chicken breast, baked, broiled, or roasted, skin not eaten, from raw",80,2047,"Salt, table, iodized",0.6
+99997540,"Eggplant, cooked, as ingredient",55,11209,"Eggplant, raw",100
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,11260,"Mushrooms, white, raw",100
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,1001,"Butter, salted",60
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,4044,"Oil, soybean, salad or cooking",50
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,4582,"Oil, canola",15
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,4053,"Oil, olive, salad or cooking",25
+75219021,"Mushrooms, fresh, cooked, fat added, NS as to fat type",100,2047,"Salt, table, iodized",0.3
+71405040,"Potato, hash brown, ready-to-heat",100,11391,"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",100
+71405040,"Potato, hash brown, ready-to-heat",100,2047,"Salt, table, iodized",1
+74404020,Spaghetti sauce with added vegetables,130,6931,"Sauce, pasta, spaghetti/marinara, ready-to-serve",260
+74404020,Spaghetti sauce with added vegetables,130,11261,"Mushrooms, white, cooked, boiled, drained, without salt",25
+74404020,Spaghetti sauce with added vegetables,130,11477,"Squash, summer, zucchini, includes skin, raw",50
+74404020,Spaghetti sauce with added vegetables,130,11467,"Squash, summer, crookneck and straightneck, raw",50
+74404020,Spaghetti sauce with added vegetables,130,11334,"Peppers, sweet, green, cooked, boiled, drained, without salt",15
+74404020,Spaghetti sauce with added vegetables,130,11821,"Peppers, sweet, red, raw",100
+11300100,"Non-dairy milk, NFS",76,14091,"Beverages, almond milk, unsweetened, shelf stable",96
+11300100,"Non-dairy milk, NFS",76,19335,"Sugars, granulated",4
+11300100,"Non-dairy milk, NFS",76,14091,"Beverages, almond milk, unsweetened, shelf stable",32
+11300100,"Non-dairy milk, NFS",76,16139,"Soymilk, original and vanilla, with added calcium, vitamins A and D",30
+11300100,"Non-dairy milk, NFS",76,14171,"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",6
+58146322,"Pasta with tomato-based sauce and meat, home recipe",100,20121,"Pasta, cooked, enriched, without added salt",140
+58146322,"Pasta with tomato-based sauce and meat, home recipe",100,6931,"Sauce, pasta, spaghetti/marinara, ready-to-serve",130
+63137140,"Pear, canned, in syrup",50,9253,"Pears, canned, water pack, solids and liquids",92
+63137140,"Pear, canned, in syrup",50,19335,"Sugars, granulated",8
+63137170,"Pear, canned, juice pack",50,9253,"Pears, canned, water pack, solids and liquids",88
+63137170,"Pear, canned, juice pack",50,9017,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",12
+81102020,"Margarine, tub",75,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",65
+81102020,"Margarine, tub",75,4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",35
+81102010,"Margarine, stick",25,4610,"Margarine, regular, 80% fat, composite, stick, with salt",65
+81102010,"Margarine, stick",25,4691,"Margarine, regular, 80% fat, composite, stick, with salt, with added vitamin D",35
+99997210,"Spinach, cooked, as ingredient",60,11457,"Spinach, raw",100
+89901010,"Cream sauce, for use with vegetables",40,1053,"Cream, fluid, heavy whipping",40
+89901010,"Cream sauce, for use with vegetables",40,20027,Cornstarch,10
+89901010,"Cream sauce, for use with vegetables",40,2047,"Salt, table, iodized",2.4
+89901010,"Cream sauce, for use with vegetables",40,14429,"Beverages, water, tap, municipal",48
+99997802,Tomatoes as ingredient in omelet,8,11529,"Tomatoes, red, ripe, raw, year round average",85
+99997802,Tomatoes as ingredient in omelet,8,11282,"Onions, raw",10
+99997802,Tomatoes as ingredient in omelet,8,11333,"Peppers, sweet, green, raw",5
+99997804,Other vegetables as ingredient in omelet,15,11260,"Mushrooms, white, raw",85
+99997804,Other vegetables as ingredient in omelet,15,11282,"Onions, raw",10
+99997804,Other vegetables as ingredient in omelet,15,11333,"Peppers, sweet, green, raw",5
+24198731,"Chicken nuggets, from fast food",100,21229,"Fast foods, chicken, breaded and fried, boneless pieces, plain",100
+41102010,"Black beans, from dried, fat added",100,16015,"Beans, black, mature seeds, cooked, boiled, without salt",100
+41102010,"Black beans, from dried, fat added",100,4044,"Oil, soybean, salad or cooking",50
+41102010,"Black beans, from dried, fat added",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41102010,"Black beans, from dried, fat added",100,4582,"Oil, canola",15
+41102010,"Black beans, from dried, fat added",100,4053,"Oil, olive, salad or cooking",25
+41102010,"Black beans, from dried, fat added",100,2047,"Salt, table, iodized",0.6
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,22959,"Macaroni and cheese dinner with dry sauce mix, boxed, uncooked",205.538
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,14411,"Beverages, water, tap, drinking",355.5
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,4044,"Oil, soybean, salad or cooking",50
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,4582,"Oil, canola",15
+58145112,"Macaroni or noodles with cheese, made from packaged mix",690,4053,"Oil, olive, salad or cooking",25
+21500100,"Ground beef, cooked",341,23578,"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",40
+21500100,"Ground beef, cooked",341,23573,"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",30
+21500100,"Ground beef, cooked",341,23568,"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",15
+21500100,"Ground beef, cooked",341,23563,"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",15
+21500100,"Ground beef, cooked",341,2047,"Salt, table, iodized",0.84
+27141030,Spaghetti sauce with poultry,130,6931,"Sauce, pasta, spaghetti/marinara, ready-to-serve",260
+27141030,Spaghetti sauce with poultry,130,5306,"Turkey, Ground, cooked",30
+27141030,Spaghetti sauce with poultry,130,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",30
+99997410,"Tomatoes, cooked, as ingredient",38,11529,"Tomatoes, red, ripe, raw, year round average",100
+41304990,"Lentils, from dried, fat added",100,16070,"Lentils, mature seeds, cooked, boiled, without salt",100
+41304990,"Lentils, from dried, fat added",100,4044,"Oil, soybean, salad or cooking",50
+41304990,"Lentils, from dried, fat added",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41304990,"Lentils, from dried, fat added",100,4582,"Oil, canola",15
+41304990,"Lentils, from dried, fat added",100,4053,"Oil, olive, salad or cooking",25
+41304990,"Lentils, from dried, fat added",100,2047,"Salt, table, iodized",0.6
+71305030,"Potato, scalloped, from fresh",100,11363,"Potatoes, baked, flesh, without salt",100
+71305030,"Potato, scalloped, from fresh",100,20081,"Wheat flour, white, all-purpose, enriched, bleached",3
+71305030,"Potato, scalloped, from fresh",100,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+71305030,"Potato, scalloped, from fresh",100,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+71305030,"Potato, scalloped, from fresh",100,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+71305030,"Potato, scalloped, from fresh",100,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+71305030,"Potato, scalloped, from fresh",100,4044,"Oil, soybean, salad or cooking",50
+71305030,"Potato, scalloped, from fresh",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+71305030,"Potato, scalloped, from fresh",100,4582,"Oil, canola",15
+71305030,"Potato, scalloped, from fresh",100,4053,"Oil, olive, salad or cooking",25
+71305030,"Potato, scalloped, from fresh",100,2047,"Salt, table, iodized",0.8
+71305030,"Potato, scalloped, from fresh",100,1009,"Cheese, cheddar (Includes foods for USDA's Food Distribution Program)",45
+41101110,"White beans, from dried, fat added",60,16050,"Beans, white, mature seeds, cooked, boiled, without salt",100
+41101110,"White beans, from dried, fat added",60,4044,"Oil, soybean, salad or cooking",50
+41101110,"White beans, from dried, fat added",60,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41101110,"White beans, from dried, fat added",60,4582,"Oil, canola",15
+41101110,"White beans, from dried, fat added",60,4053,"Oil, olive, salad or cooking",25
+41101110,"White beans, from dried, fat added",60,2047,"Salt, table, iodized",0.6
+63311140,"Fruit cocktail, canned, in syrup",50,9096,"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids",92
+63311140,"Fruit cocktail, canned, in syrup",50,19335,"Sugars, granulated",8
+63311170,"Fruit cocktail, canned, juice pack",50,9096,"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, water pack, solids and liquids",88
+63311170,"Fruit cocktail, canned, juice pack",50,9017,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",12
+93201000,Cordial or liqueur,180,14034,"Alcoholic beverage, creme de menthe, 72 proof",100
+99997535,"Cauliflower, cooked, as ingredient",38,11135,"Cauliflower, raw",100
+13130310,"Light ice cream, chocolate",80,19114,"Ice creams, chocolate, light",50
+13130310,"Light ice cream, chocolate",80,19265,"Ice creams, chocolate, light, no sugar added",50
+25221830,Turkey or chicken sausage,100,7919,"Sausage, turkey, breakfast links, mild, raw",100
+12120100,"Cream, half and half",100,1049,"Cream, fluid, half and half",100
+75113000,"Lettuce, raw",50,11252,"Lettuce, iceberg (includes crisphead types), raw",50
+75113000,"Lettuce, raw",50,11253,"Lettuce, green leaf, raw",50
+75113060,"Lettuce, Boston, raw",25,11257,"Lettuce, red leaf, raw",100
+56203056,"Oatmeal, regular or quick, made with water, no added fat",100,8120,"Cereals, oats, regular and quick, not fortified, dry",40
+56203056,"Oatmeal, regular or quick, made with water, no added fat",100,14411,"Beverages, water, tap, drinking",240
+56203056,"Oatmeal, regular or quick, made with water, no added fat",100,2047,"Salt, table, iodized",0.4
+42110100,"Mixed nuts, with peanuts, salted",40,12063,"Nuts, almonds, dry roasted, without salt added",30
+42110100,"Mixed nuts, with peanuts, salted",40,12085,"Nuts, cashew nuts, dry roasted, without salt added",30
+42110100,"Mixed nuts, with peanuts, salted",40,12078,"Nuts, brazilnuts, dried, unblanched",7
+42110100,"Mixed nuts, with peanuts, salted",40,12120,"Nuts, hazelnuts or filberts",7
+42110100,"Mixed nuts, with peanuts, salted",40,12142,"Nuts, pecans",7
+42110100,"Mixed nuts, with peanuts, salted",40,12152,"Nuts, pistachio nuts, dry roasted, without salt added",7
+42110100,"Mixed nuts, with peanuts, salted",40,12155,"Nuts, walnuts, english",7
+42110100,"Mixed nuts, with peanuts, salted",40,16390,"Peanuts, all types, dry-roasted, without salt",48
+42110100,"Mixed nuts, with peanuts, salted",40,4044,"Oil, soybean, salad or cooking",50
+42110100,"Mixed nuts, with peanuts, salted",40,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+42110100,"Mixed nuts, with peanuts, salted",40,4582,"Oil, canola",15
+42110100,"Mixed nuts, with peanuts, salted",40,4053,"Oil, olive, salad or cooking",25
+42110100,"Mixed nuts, with peanuts, salted",40,2047,"Salt, table, iodized",0.8
+43107000,Mixed seeds,10,12016,"Seeds, pumpkin and squash seed kernels, roasted, without salt",25
+43107000,Mixed seeds,10,12037,"Seeds, sunflower seed kernels, dry roasted, without salt",75
+63141140,"Pineapple, canned, in syrup",50,9267,"Pineapple, canned, water pack, solids and liquids",92
+63141140,"Pineapple, canned, in syrup",50,19335,"Sugars, granulated",8
+63141170,"Pineapple, canned, juice pack",50,9267,"Pineapple, canned, water pack, solids and liquids",88
+63141170,"Pineapple, canned, juice pack",50,9017,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",12
+31105030,"Egg, whole, fried with oil",33.333,1123,"Egg, whole, raw, fresh",100
+31105030,"Egg, whole, fried with oil",33.333,2047,"Salt, table, iodized",0.3
+31105030,"Egg, whole, fried with oil",33.333,4044,"Oil, soybean, salad or cooking",50
+31105030,"Egg, whole, fried with oil",33.333,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+31105030,"Egg, whole, fried with oil",33.333,4582,"Oil, canola",15
+31105030,"Egg, whole, fried with oil",33.333,4053,"Oil, olive, salad or cooking",25
+31103010,"Egg, whole, boiled or poached",33.333,1123,"Egg, whole, raw, fresh",100
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,1123,"Egg, whole, raw, fresh",100
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,2047,"Salt, table, iodized",0.3
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,4044,"Oil, soybean, salad or cooking",50
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,4582,"Oil, canola",15
+32130010,"Egg omelet or scrambled egg, made with oil",33.333,4053,"Oil, olive, salad or cooking",25
+52105100,Scone,90,20081,"Wheat flour, white, all-purpose, enriched, bleached",375
+52105100,Scone,90,18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",23
+52105100,Scone,90,2047,"Salt, table, iodized",3
+52105100,Scone,90,1145,"Butter, without salt",170
+52105100,Scone,90,19335,"Sugars, granulated",100
+52105100,Scone,90,1123,"Egg, whole, raw, fresh",50
+52105100,Scone,90,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+52105100,Scone,90,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+52105100,Scone,90,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+52105100,Scone,90,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+73101010,"Carrots, raw",25,11124,"Carrots, raw",100
+75109000,"Celery, raw",25,11143,"Celery, raw",100
+74101000,"Tomatoes, raw",25,11529,"Tomatoes, red, ripe, raw, year round average",100
+72201100,"Broccoli, raw",25,11090,"Broccoli, raw",100
+13110000,"Ice cream, NFS",120,19095,"Ice creams, vanilla",100
+81312100,Curry sauce,40,11549,"Tomato products, canned, sauce",80
+81312100,Curry sauce,40,1116,"Yogurt, plain, whole milk",7
+81312100,Curry sauce,40,12117,"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",7
+81312100,Curry sauce,40,4044,"Oil, soybean, salad or cooking",50
+81312100,Curry sauce,40,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+81312100,Curry sauce,40,4582,"Oil, canola",15
+81312100,Curry sauce,40,4053,"Oil, olive, salad or cooking",25
+99997810,Vegetables as ingredient in curry,40,11674,"Potatoes, baked, flesh and skin, without salt",25
+99997810,Vegetables as ingredient in curry,40,11282,"Onions, raw",25
+99997810,Vegetables as ingredient in curry,40,11529,"Tomatoes, red, ripe, raw, year round average",15
+99997810,Vegetables as ingredient in curry,40,11124,"Carrots, raw",10
+99997810,Vegetables as ingredient in curry,40,11135,"Cauliflower, raw",10
+99997810,Vegetables as ingredient in curry,40,11313,"Peas, green, frozen, cooked, boiled, drained, without salt",5
+99997810,Vegetables as ingredient in curry,40,11052,"Beans, snap, green, raw",5
+99997810,Vegetables as ingredient in curry,40,11333,"Peppers, sweet, green, raw",5
+63135140,"Peach, canned, in syrup",50,9237,"Peaches, canned, water pack, solids and liquids",92
+63135140,"Peach, canned, in syrup",50,19335,"Sugars, granulated",8
+63135170,"Peach, canned, juice pack",50,9237,"Peaches, canned, water pack, solids and liquids",88
+63135170,"Peach, canned, juice pack",50,9017,"Apple juice, frozen concentrate, unsweetened, undiluted, without added ascorbic acid",12
+99997550,"Summer squash, cooked, as ingredient",540,11477,"Squash, summer, zucchini, includes skin, raw",50
+99997550,"Summer squash, cooked, as ingredient",540,11467,"Squash, summer, crookneck and straightneck, raw",50
+71401032,"Potato, french fries, from frozen, fried",100,11403,"Potatoes, french fried, all types, salt added in processing, frozen, home-prepared, oven heated",100
+71401032,"Potato, french fries, from frozen, fried",100,4044,"Oil, soybean, salad or cooking",50
+71401032,"Potato, french fries, from frozen, fried",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+71401032,"Potato, french fries, from frozen, fried",100,4582,"Oil, canola",15
+71401032,"Potato, french fries, from frozen, fried",100,4053,"Oil, olive, salad or cooking",25
+92101610,"Coffee, espresso",60,14210,"Beverages, coffee, brewed, espresso, restaurant-prepared",100
+81103080,"Margarine-oil blend, tub",9.583,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",65
+81103080,"Margarine-oil blend, tub",9.583,4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",35
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,14411,"Beverages, water, tap, drinking",118.5
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,2047,"Salt, table, iodized",9
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,19335,"Sugars, granulated",12.5
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,1001,"Butter, salted",7
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,4615,"Shortening, vegetable, household, composite",6.406
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,18375,"Leavening agents, yeast, baker's, active dry",7
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,20083,"Wheat flour, white, bread, enriched",274
+51301040,"Bread, wheat or cracked wheat, made from home recipe or purchased at bakery",100,20080,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",120
+81101000,"Butter, stick",100,1001,"Butter, salted",100
+74402150,"Salsa, red, commercially-prepared",100,6164,"Sauce, salsa, ready-to-serve",100
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,15033,"Fish, haddock, raw",100
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,20081,"Wheat flour, white, all-purpose, enriched, bleached",125
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",1
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,14411,"Beverages, water, tap, drinking",120
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,1123,"Egg, whole, raw, fresh",15
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,2047,"Salt, table, iodized",1
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,18079,"Bread, crumbs, dry, grated, plain",25
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,4698,"Oil, industrial, canola, high oleic",25
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,4701,"Oil, industrial, soy, fully hydrogenated",25
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,4699,"Oil, industrial, soy, low linolenic",25
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,4700,"Oil, industrial, soy, ultra low linolenic",25
+99992610,"Fish fillet, fried as ingredient in sandwiches",75,2047,"Salt, table, iodized",0.3
+99998210,Industrial oil as ingredient in food,1,4698,"Oil, industrial, canola, high oleic",25
+99998210,Industrial oil as ingredient in food,1,4701,"Oil, industrial, soy, fully hydrogenated",25
+99998210,Industrial oil as ingredient in food,1,4699,"Oil, industrial, soy, low linolenic",25
+99998210,Industrial oil as ingredient in food,1,4700,"Oil, industrial, soy, ultra low linolenic",25
+27560110,"Bologna sandwich, with spread",100,18069,"Bread, white, commercially prepared (includes soft bread crumbs)",56
+27560110,"Bologna sandwich, with spread",100,7971,"Bologna, meat and poultry",28.35
+27560110,"Bologna sandwich, with spread",100,4025,"Salad dressing, mayonnaise, regular",4.583
+71103010,"Potato, boiled, from fresh, peel not eaten, no added fat",50,11363,"Potatoes, baked, flesh, without salt",100
+71103010,"Potato, boiled, from fresh, peel not eaten, no added fat",50,2047,"Salt, table, iodized",0.4
+73102211,"Carrots, fresh, cooked, no added fat",30,11124,"Carrots, raw",100
+73102211,"Carrots, fresh, cooked, no added fat",30,2047,"Salt, table, iodized",0.3
+75221011,"Onions, cooked, no added fat",15,11282,"Onions, raw",100
+75221011,"Onions, cooked, no added fat",15,2047,"Salt, table, iodized",0.3
+41104020,"Pinto beans, from dried, no added fat",131,16043,"Beans, pinto, mature seeds, cooked, boiled, without salt",100
+41104020,"Pinto beans, from dried, no added fat",131,2047,"Salt, table, iodized",0.6
+41102020,"Black beans, from dried, no added fat",44,16015,"Beans, black, mature seeds, cooked, boiled, without salt",100
+41102020,"Black beans, from dried, no added fat",44,2047,"Salt, table, iodized",0.6
+99997525,"Red pepper, cooked, as ingredient",17,11821,"Peppers, sweet, red, raw",100
+28520000,"Gravy, made with soy sauce",79.92,6075,"Soup, beef broth or bouillon, powder, dry",3.6
+28520000,"Gravy, made with soy sauce",79.92,20027,Cornstarch,8
+28520000,"Gravy, made with soy sauce",79.92,19335,"Sugars, granulated",4.167
+28520000,"Gravy, made with soy sauce",79.92,16123,Soy sauce made from soy and wheat (shoyu),5.3
+28520000,"Gravy, made with soy sauce",79.92,14411,"Beverages, water, tap, drinking",118.5
+71505050,"Potato tots, frozen, fried",100,11398,"Potato puffs, frozen, unprepared",100
+71505050,"Potato tots, frozen, fried",100,4044,"Oil, soybean, salad or cooking",50
+71505050,"Potato tots, frozen, fried",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+71505050,"Potato tots, frozen, fried",100,4582,"Oil, canola",15
+71505050,"Potato tots, frozen, fried",100,4053,"Oil, olive, salad or cooking",25
+24152230,"Chicken thigh, baked, broiled, or roasted, skin eaten, from raw",30,5094,"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",100
+24152230,"Chicken thigh, baked, broiled, or roasted, skin eaten, from raw",30,2047,"Salt, table, iodized",0.6
+24142300,"Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw",20,5069,"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",100
+24142300,"Chicken drumstick, baked, broiled, or roasted, skin eaten, from raw",20,2047,"Salt, table, iodized",0.6
+73410310,"Sweet potato fries, frozen, fried",100,31023,"Sweet Potatoes, french fried, frozen as packaged, salt added in processing",100
+73410310,"Sweet potato fries, frozen, fried",100,4044,"Oil, soybean, salad or cooking",50
+73410310,"Sweet potato fries, frozen, fried",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+73410310,"Sweet potato fries, frozen, fried",100,4582,"Oil, canola",15
+73410310,"Sweet potato fries, frozen, fried",100,4053,"Oil, olive, salad or cooking",25
+99997800,Dark green vegetables as ingredient in omelet,15,11457,"Spinach, raw",70
+99997800,Dark green vegetables as ingredient in omelet,15,11090,"Broccoli, raw",15
+99997800,Dark green vegetables as ingredient in omelet,15,11282,"Onions, raw",10
+99997800,Dark green vegetables as ingredient in omelet,15,11333,"Peppers, sweet, green, raw",5
+51101010,"Bread, white, toasted",100,18069,"Bread, white, commercially prepared (includes soft bread crumbs)",100
+14650100,Cheese sauce,64,1025,"Cheese, monterey",15
+14650100,Cheese sauce,64,4044,"Oil, soybean, salad or cooking",50
+14650100,Cheese sauce,64,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+14650100,Cheese sauce,64,4582,"Oil, canola",15
+14650100,Cheese sauce,64,4053,"Oil, olive, salad or cooking",25
+14650100,Cheese sauce,64,20081,"Wheat flour, white, all-purpose, enriched, bleached",17
+14650100,Cheese sauce,64,14411,"Beverages, water, tap, drinking",115
+14650100,Cheese sauce,64,2047,"Salt, table, iodized",2.7
+14650100,Cheese sauce,64,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+14650100,Cheese sauce,64,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+14650100,Cheese sauce,64,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+14650100,Cheese sauce,64,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+81102000,"Margarine, NFS",7,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",65
+81102000,"Margarine, NFS",7,4694,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt, with added vitamin D",35
+24152231,"Chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",30,5098,"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",100
+24152231,"Chicken thigh, baked, broiled, or roasted, skin not eaten, from raw",30,2047,"Salt, table, iodized",0.6
+24142301,"Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",20,5073,"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",100
+24142301,"Chicken drumstick, baked, broiled, or roasted, skin not eaten, from raw",20,2047,"Salt, table, iodized",0.6
+51107040,"Bread, French or Vienna, toasted",472,18029,"Bread, french or vienna (includes sourdough)",100
+42110160,"Mixed nuts, without peanuts, unsalted",49,12063,"Nuts, almonds, dry roasted, without salt added",30
+42110160,"Mixed nuts, without peanuts, unsalted",49,12085,"Nuts, cashew nuts, dry roasted, without salt added",30
+42110160,"Mixed nuts, without peanuts, unsalted",49,12078,"Nuts, brazilnuts, dried, unblanched",7
+42110160,"Mixed nuts, without peanuts, unsalted",49,12120,"Nuts, hazelnuts or filberts",7
+42110160,"Mixed nuts, without peanuts, unsalted",49,12142,"Nuts, pecans",7
+42110160,"Mixed nuts, without peanuts, unsalted",49,12152,"Nuts, pistachio nuts, dry roasted, without salt added",7
+42110160,"Mixed nuts, without peanuts, unsalted",49,12155,"Nuts, walnuts, english",7
+42110160,"Mixed nuts, without peanuts, unsalted",49,4044,"Oil, soybean, salad or cooking",50
+42110160,"Mixed nuts, without peanuts, unsalted",49,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+42110160,"Mixed nuts, without peanuts, unsalted",49,4582,"Oil, canola",15
+42110160,"Mixed nuts, without peanuts, unsalted",49,4053,"Oil, olive, salad or cooking",25
+73111212,"Peas and carrots, frozen, cooked, no added fat",53,11313,"Peas, green, frozen, cooked, boiled, drained, without salt",50
+73111212,"Peas and carrots, frozen, cooked, no added fat",53,11131,"Carrots, frozen, cooked, boiled, drained, without salt",50
+73111212,"Peas and carrots, frozen, cooked, no added fat",53,2047,"Salt, table, iodized",0.3
+53121275,"Cake or cupcake, yellow, without icing or filling",840,18142,"Cake, pudding-type, yellow, dry mix",467.775
+53121275,"Cake or cupcake, yellow, without icing or filling",840,14411,"Beverages, water, tap, drinking",237
+53121275,"Cake or cupcake, yellow, without icing or filling",840,4044,"Oil, soybean, salad or cooking",50
+53121275,"Cake or cupcake, yellow, without icing or filling",840,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+53121275,"Cake or cupcake, yellow, without icing or filling",840,4582,"Oil, canola",15
+53121275,"Cake or cupcake, yellow, without icing or filling",840,4053,"Oil, olive, salad or cooking",25
+53121275,"Cake or cupcake, yellow, without icing or filling",840,1123,"Egg, whole, raw, fresh",150
+24123120,"Chicken breast, stewed, skin not eaten",50,5062,"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",100
+24123120,"Chicken breast, stewed, skin not eaten",50,2047,"Salt, table, iodized",0.6
+24153220,"Chicken thigh, stewed, skin not eaten",30,5672,"Chicken, broilers or fryers, dark meat, thigh, meat only, cooked, braised",100
+24153220,"Chicken thigh, stewed, skin not eaten",30,2047,"Salt, table, iodized",0.8
+24143220,"Chicken drumstick, stewed, skin not eaten",20,5671,"Chicken, broilers or fryers, drumstick, meat only, cooked, braised",100
+24143220,"Chicken drumstick, stewed, skin not eaten",20,2047,"Salt, table, iodized",0.8
+52103000,"Biscuit, from fast food / restaurant",100,21142,"Fast food, biscuit",100
+53120270,"Cake or cupcake, white, with icing or filling",50,18141,"Cake, yellow, commercially prepared, with vanilla frosting",100
+13110100,"Ice cream, vanilla",60,19095,"Ice creams, vanilla",100
+13110102,"Ice cream, vanilla, with additional ingredients",40,19095,"Ice creams, vanilla",135
+13110102,"Ice cream, vanilla, with additional ingredients",40,19348,"Syrups, chocolate, fudge-type",10
+13110102,"Ice cream, vanilla, with additional ingredients",40,19141,"Candies, MARS SNACKFOOD US, M&M's Milk Chocolate Candies",10
+13110102,"Ice cream, vanilla, with additional ingredients",40,18166,"Cookies, chocolate sandwich, with creme filling, regular",5
+13411000,White sauce or gravy,240,20081,"Wheat flour, white, all-purpose, enriched, bleached",15.625
+13411000,White sauce or gravy,240,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+13411000,White sauce or gravy,240,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+13411000,White sauce or gravy,240,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+13411000,White sauce or gravy,240,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+13411000,White sauce or gravy,240,1001,"Butter, salted",60
+13411000,White sauce or gravy,240,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+13411000,White sauce or gravy,240,2047,"Salt, table, iodized",1.5
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",108.8,21469,"Fast Foods, Fried Chicken, Breast, meat and skin and breading",50
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",108.8,21471,"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",30
+24107070,"Chicken, NS as to part, fried, coated, skin / coating eaten",108.8,21470,"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",20
+75311012,"Classic mixed vegetables, frozen, cooked, no added fat",52.3,11584,"Vegetables, mixed, frozen, cooked, boiled, drained, without salt",100
+75311012,"Classic mixed vegetables, frozen, cooked, no added fat",52.3,2047,"Salt, table, iodized",0.3
+81201000,Animal fat or drippings,7,4609,"Animal fat, bacon grease",40
+81201000,Animal fat or drippings,7,4002,Lard,30
+81201000,Animal fat or drippings,7,13020,"Beef, retail cuts, separable fat, cooked",21
+81201000,Animal fat or drippings,7,4542,"Fat, chicken",6
+81201000,Animal fat or drippings,7,4575,"Fat, turkey",2
+81201000,Animal fat or drippings,7,2047,"Salt, table, iodized",1.4
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,11215,"Garlic, raw",12
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,11333,"Peppers, sweet, green, raw",184
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,11282,"Onions, raw",208
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,4044,"Oil, soybean, salad or cooking",50
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,4582,"Oil, canola",15
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,4053,"Oil, olive, salad or cooking",25
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,2027,"Spices, oregano, dried",1.5
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,11979,"Peppers, jalapeno, raw",45
+74420110,Puerto Rican seasoning without ham and tomato sauce,60,11165,"Coriander (cilantro) leaves, raw",20
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,14411,"Beverages, water, tap, drinking",118.5
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,2047,"Salt, table, iodized",9
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,19335,"Sugars, granulated",12.5
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,1001,"Butter, salted",7
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,4615,"Shortening, vegetable, household, composite",6.406
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,18375,"Leavening agents, yeast, baker's, active dry",3.5
+51101050,"Bread, white, made from home recipe or purchased at a bakery",100,20083,"Wheat flour, white, bread, enriched",411
+26319140,"Shrimp, coated, fried, made with oil",448,15149,"Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",453.6
+26319140,"Shrimp, coated, fried, made with oil",448,1123,"Egg, whole, raw, fresh",50
+26319140,"Shrimp, coated, fried, made with oil",448,2047,"Salt, table, iodized",3
+26319140,"Shrimp, coated, fried, made with oil",448,18079,"Bread, crumbs, dry, grated, plain",72.004
+26319140,"Shrimp, coated, fried, made with oil",448,2030,"Spices, pepper, black",0.267
+26319140,"Shrimp, coated, fried, made with oil",448,4044,"Oil, soybean, salad or cooking",50
+26319140,"Shrimp, coated, fried, made with oil",448,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+26319140,"Shrimp, coated, fried, made with oil",448,4582,"Oil, canola",15
+26319140,"Shrimp, coated, fried, made with oil",448,4053,"Oil, olive, salad or cooking",25
+74410110,Puerto Rican seasoning with ham,79.92,10141,"Pork, cured, ham, center slice, country-style, separable lean only, raw",56.7
+74410110,Puerto Rican seasoning with ham,79.92,11333,"Peppers, sweet, green, raw",226.8
+74410110,Puerto Rican seasoning with ham,79.92,11529,"Tomatoes, red, ripe, raw, year round average",182
+74410110,Puerto Rican seasoning with ham,79.92,11282,"Onions, raw",226.8
+74410110,Puerto Rican seasoning with ham,79.92,11215,"Garlic, raw",18
+74410110,Puerto Rican seasoning with ham,79.92,4053,"Oil, olive, salad or cooking",112
+74410110,Puerto Rican seasoning with ham,79.92,11165,"Coriander (cilantro) leaves, raw",8
+74410110,Puerto Rican seasoning with ham,79.92,2027,"Spices, oregano, dried",4.5
+74410110,Puerto Rican seasoning with ham,79.92,10165,"Pork, cured, salt pork, raw",56.7
+56205018,"Rice, brown, cooked, no added fat",40,20037,"Rice, brown, long-grain, cooked (Includes foods for USDA's Food Distribution Program)",195
+56205018,"Rice, brown, cooked, no added fat",40,2047,"Salt, table, iodized",1.002
+58103130,Tamale with chicken,100,4002,Lard,240
+58103130,Tamale with chicken,100,18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",6.9
+58103130,Tamale with chicken,100,20019,"Corn flour, masa, unenriched, white",399
+58103130,Tamale with chicken,100,14411,"Beverages, water, tap, drinking",533.25
+58103130,Tamale with chicken,100,6194,"Soup, chicken broth, ready-to-serve",360
+58103130,Tamale with chicken,100,2047,"Salt, table, iodized",15
+58103130,Tamale with chicken,100,5000,"Chicken, broiler, rotisserie, BBQ, breast, meat only",545
+58103130,Tamale with chicken,100,11979,"Peppers, jalapeno, raw",9
+58103130,Tamale with chicken,100,11215,"Garlic, raw",12
+58103130,Tamale with chicken,100,2014,"Spices, cumin seed",0.5
+41202510,"Beans and tomatoes, fat added",60,16043,"Beans, pinto, mature seeds, cooked, boiled, without salt",131
+41202510,"Beans and tomatoes, fat added",60,16015,"Beans, black, mature seeds, cooked, boiled, without salt",44
+41202510,"Beans and tomatoes, fat added",60,11549,"Tomato products, canned, sauce",85.658
+41202510,"Beans and tomatoes, fat added",60,2047,"Salt, table, iodized",0.4
+41202510,"Beans and tomatoes, fat added",60,4044,"Oil, soybean, salad or cooking",50
+41202510,"Beans and tomatoes, fat added",60,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41202510,"Beans and tomatoes, fat added",60,4582,"Oil, canola",15
+41202510,"Beans and tomatoes, fat added",60,4053,"Oil, olive, salad or cooking",25
+91300100,Pancake syrup,100,19360,"Syrups, table blends, pancake, with 2% maple",100
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,11477,"Squash, summer, zucchini, includes skin, raw",50
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,11467,"Squash, summer, crookneck and straightneck, raw",50
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,4044,"Oil, soybean, salad or cooking",50
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,4582,"Oil, canola",15
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,4053,"Oil, olive, salad or cooking",25
+75233021,"Summer squash, yellow or green, fresh, cooked, fat added, NS as to fat type",100,2047,"Salt, table, iodized",0.3
+81302010,Hollandaise sauce,192.75,1001,"Butter, salted",60
+81302010,Hollandaise sauce,192.75,1125,"Egg, yolk, raw, fresh",30
+81302010,Hollandaise sauce,192.75,9152,"Lemon juice, raw",10
+72118221,"Greens, fresh, cooked, fat added",100,11161,"Collards, raw",40
+72118221,"Greens, fresh, cooked, fat added",100,11233,"Kale, raw",40
+72118221,"Greens, fresh, cooked, fat added",100,11270,"Mustard greens, raw",10
+72118221,"Greens, fresh, cooked, fat added",100,11569,"Turnip greens, cooked, boiled, drained, without salt",10
+53301070,"Pie, apple, individual size or tart",100,18319,"Pie, fried pies, fruit",100
+75122000,"Pepper, raw, NFS",238,11333,"Peppers, sweet, green, raw",65
+75122000,"Pepper, raw, NFS",238,11821,"Peppers, sweet, red, raw",35
+27260010,"Meat loaf, NS as to type of meat",252,23575,"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",428.652
+27260010,"Meat loaf, NS as to type of meat",252,18069,"Bread, white, commercially prepared (includes soft bread crumbs)",84
+27260010,"Meat loaf, NS as to type of meat",252,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+27260010,"Meat loaf, NS as to type of meat",252,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+27260010,"Meat loaf, NS as to type of meat",252,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+27260010,"Meat loaf, NS as to type of meat",252,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+27260010,"Meat loaf, NS as to type of meat",252,11282,"Onions, raw",80
+27260010,"Meat loaf, NS as to type of meat",252,1123,"Egg, whole, raw, fresh",50
+27260010,"Meat loaf, NS as to type of meat",252,2047,"Salt, table, iodized",6
+27260010,"Meat loaf, NS as to type of meat",252,2030,"Spices, pepper, black",0.525
+72107211,"Collards, fresh, cooked, no added fat",40,11161,"Collards, raw",100
+72107211,"Collards, fresh, cooked, no added fat",40,2047,"Salt, table, iodized",0.3
+72119211,"Kale, fresh, cooked, no added fat",40,11233,"Kale, raw",100
+72119211,"Kale, fresh, cooked, no added fat",40,2047,"Salt, table, iodized",0.3
+72122211,"Mustard greens, fresh, cooked, no added fat",10,11270,"Mustard greens, raw",100
+72122211,"Mustard greens, fresh, cooked, no added fat",10,2047,"Salt, table, iodized",0.3
+72128211,"Turnip greens, fresh, cooked, no added fat",10,11569,"Turnip greens, cooked, boiled, drained, without salt",100
+72128211,"Turnip greens, fresh, cooked, no added fat",10,2047,"Salt, table, iodized",0.3
+41106010,"Kidney beans, from dried, fat added",60,16033,"Beans, kidney, red, mature seeds, cooked, boiled, without salt",100
+41106010,"Kidney beans, from dried, fat added",60,4044,"Oil, soybean, salad or cooking",50
+41106010,"Kidney beans, from dried, fat added",60,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+41106010,"Kidney beans, from dried, fat added",60,4582,"Oil, canola",15
+41106010,"Kidney beans, from dried, fat added",60,4053,"Oil, olive, salad or cooking",25
+41106010,"Kidney beans, from dried, fat added",60,2047,"Salt, table, iodized",0.6
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,14411,"Beverages, water, tap, drinking",118.5
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,2047,"Salt, table, iodized",9
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,19335,"Sugars, granulated",12.5
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,1001,"Butter, salted",7
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,4615,"Shortening, vegetable, household, composite",6.406
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,18375,"Leavening agents, yeast, baker's, active dry",3.5
+51101060,"Bread, white, made from home recipe or purchased at a bakery, toasted",100,20083,"Wheat flour, white, bread, enriched",411
+25220710,Chorizo,284,100173,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",100
+75510030,"Olives, stuffed",24,9195,"Olives, pickled, canned or bottled, green",86
+75510030,"Olives, stuffed",24,11943,"Pimento, canned",14
+74201001,"Tomatoes, fresh, cooked",100,11529,"Tomatoes, red, ripe, raw, year round average",100
+74201001,"Tomatoes, fresh, cooked",100,2047,"Salt, table, iodized",0.3
+74201001,"Tomatoes, fresh, cooked",100,1001,"Butter, salted",60
+74201001,"Tomatoes, fresh, cooked",100,4613,"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",40
+74201001,"Tomatoes, fresh, cooked",100,4044,"Oil, soybean, salad or cooking",50
+74201001,"Tomatoes, fresh, cooked",100,4518,"Oil, corn, industrial and retail, all purpose salad or cooking",10
+74201001,"Tomatoes, fresh, cooked",100,4582,"Oil, canola",15
+74201001,"Tomatoes, fresh, cooked",100,4053,"Oil, olive, salad or cooking",25
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,14411,"Beverages, water, tap, drinking",118.5
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,2047,"Salt, table, iodized",9
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,19335,"Sugars, granulated",12.5
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,1001,"Butter, salted",7
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,4615,"Shortening, vegetable, household, composite",6.4
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,18375,"Leavening agents, yeast, baker's, active dry",7
+51300140,"Bread, whole wheat, made from home recipe or purchased at bakery",100,20080,"Wheat flour, whole-grain (Includes foods for USDA's Food Distribution Program)",360
+75114000,"Mixed salad greens, raw",70,11252,"Lettuce, iceberg (includes crisphead types), raw",50
+75114000,"Mixed salad greens, raw",70,11253,"Lettuce, green leaf, raw",50
+75114000,"Mixed salad greens, raw",70,11257,"Lettuce, red leaf, raw",25
+75114000,"Mixed salad greens, raw",70,11457,"Spinach, raw",25
+99997530,"Cabbage, cooked, as ingredient",150,11109,"Cabbage, raw",100
+24207000,"Turkey, ground",30,5306,"Turkey, Ground, cooked",100
+24207000,"Turkey, ground",30,2047,"Salt, table, iodized",0.84
+21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",83.75,23606,"Beef, short loin, top loin, steak, separable lean only, trimmed to 1/8"" fat, all grades, cooked, broiled",25
+21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",83.75,23100,"Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat, all grades, cooked, grilled",25
+21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",83.75,13491,"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat, all grades, cooked, grilled",25
+21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",83.75,13454,"Beef, top sirloin, steak, separable lean only, trimmed to 0"" fat, all grades, cooked, broiled",25
+21101000,"Beef steak, NS as to cooking method, NS as to fat eaten",83.75,2047,"Salt, table, iodized",0.84
+13210300,Custard,22,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+13210300,Custard,22,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+13210300,Custard,22,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+13210300,Custard,22,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+13210300,Custard,22,19335,"Sugars, granulated",37.5
+13210300,Custard,22,1123,"Egg, whole, raw, fresh",100
+13210300,Custard,22,2047,"Salt, table, iodized",0.4
+13210300,Custard,22,14429,"Beverages, water, tap, municipal",1.234
+12140000,"Cream, whipped",22,1053,"Cream, fluid, heavy whipping",238
+12140000,"Cream, whipped",22,19336,"Sugars, powdered",15
+55610300,"Dumpling, plain",50,20081,"Wheat flour, white, all-purpose, enriched, bleached",250
+55610300,"Dumpling, plain",50,18369,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",18.4
+55610300,"Dumpling, plain",50,1077,"Milk, whole, 3.25% milkfat, with added vitamin D",35
+55610300,"Dumpling, plain",50,1079,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",37
+55610300,"Dumpling, plain",50,1082,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",17
+55610300,"Dumpling, plain",50,1085,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",11
+55610300,"Dumpling, plain",50,2047,"Salt, table, iodized",6
+55610300,"Dumpling, plain",50,4615,"Shortening, vegetable, household, composite",25.625
+55610300,"Dumpling, plain",50,14429,"Beverages, water, tap, municipal",481.7
+21407120,"Beef, pot roast, braised or boiled, lean only eaten",167.5,13382,"Beef, chuck, blade roast, separable lean only, trimmed to 0"" fat, all grades, cooked, braised",100
+21407120,"Beef, pot roast, braised or boiled, lean only eaten",167.5,2047,"Salt, table, iodized",0.84
+75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",100,11124,"Carrots, raw",25
+75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",100,11052,"Beans, snap, green, raw",25
+75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",100,11304,"Peas, green, raw",25
+75311022,"Classic mixed vegetables, frozen, cooked, fat added, NS as to fat type",100,11167,"Corn, sweet, yellow, raw",25
