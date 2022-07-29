@@ -27,7 +27,7 @@ Files associated with python notebooks:
   * Input:
 	
     * fndds2018.csv - Food and nutrition database for dietary studies 2017-2018
-    * asa_fndds_matched_nndc_120721.csv - Ingredientized dataset from merging asa24 recalls with fndds2018
+    * asa_fndds_matched_120721.csv - Ingredientized dataset from merging asa24 recalls with fndds2018
     
   * Output:
 	
@@ -38,7 +38,7 @@ Files associated with python notebooks:
 
   * Input:
 	
-    * asa_fndds_matched_nndc_120721.csv -  Ingredientized dataset from merging asa24 recalls with fndds2018
+    * asa_fndds_matched_120721.csv -  Ingredientized dataset from merging asa24 recalls with fndds2018. NOTE: this file is not included in the data, need to output from 02_ingredientize_mixed_foods.ipynb
     * ingred_code_remapped_102021.csv - Manually combined dataset from 03_ingredient_code_remap.ipynb outputs asa_recode.csv through asa_recode6.csv
     * fndds_2018_ingredient_carbohydrate_values.csv - FNDDS ingredients nutrient database. Provides carbohydrate fiber and energy (kcal) values to assess nutrient intakes from ingredientized data
 		
