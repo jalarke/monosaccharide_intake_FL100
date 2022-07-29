@@ -9,7 +9,7 @@ Files associated with python notebooks:
 		
   * Output:
 	
-    * fndds_missing_foods.csv - Foods that were missing from FNDDS 2017-2018 after mapping from versions 4.1 and 2011-2012 which were used with ASA24 v 2014 and 2016 during original data collection.
+    * fndds_missing_foods.csv - Foods that were missing from FNDDS 2017-2018 after mapping from versions 4.1 and 2011-2012 which were used to generate ASA24 v 2014 and 2016 diet recalls during original data collection.
 
 02_ingredientize_mixed_foods.ipynb
 
