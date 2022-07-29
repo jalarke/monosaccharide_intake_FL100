@@ -46,7 +46,7 @@ Files associated with python notebooks:
 	
     * ingredient_fiber_carb_weights_nndc_120721.csv - Ingredientized asa24 food recalls with nutrient values for carbs, fiber and energy (kcal)
     
-06_merge_asa24_glycopedia_all_matches.ipynb
+05_merge_asa24_glycopedia_all_matches.ipynb
 
   * Input:
 	
@@ -56,6 +56,6 @@ Files associated with python notebooks:
 		
   * Output:
 	
-    * all_items_cal_adjusted_041122.csv - Intakes of monosaccharides energy adjusted (per 1000 kcal)
+    * all_items_cal_adjusted_041122.csv - Energy adjusted intakes of monosaccharides (per 1000 kcal)
     * all_items_unadjusted_041122.csv - Intakes of monosaccharides (not energy adjusted)
     
